@@ -19,4 +19,3 @@ This calculator can support parentheses use and decimal numbers. It can support 
 * Division
 * Modulus
 
-## 
